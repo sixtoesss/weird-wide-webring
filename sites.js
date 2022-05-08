@@ -165,6 +165,11 @@ let sites = [
       url: 'https://kevq.uk',
       because: "A very blue site, like a deep ocean of meandering thought; but also a cool avatar (try hovering over it)."
     },
+     {
+      name: "SIXTOESSS",
+      url: 'https://sixtoesss.neocities.org/',
+      because: "A pinkish n colorish website where i share my interests n ramble bout stuff i go thru in my daily life!"
+    },
     {
         name: "leihu",
         url: "https://leihu.com",
